@@ -3,7 +3,7 @@
         <div class="text_container">
           <span class="p_name">Nanci Botelho</span>
           <p class="p_text">
-            Olá! Benvindos ao meu portfólio!
+            Olá! Bem-vindos ao meu portfólio!
             O meu nome é Nanci Botelho, estudante do Mestrado de Engenharia Informática e Tecnologias Web.
             Atualmente sou professora de Informática do 5.º ao 6.º ano, bem como docente da Unidade Curricular de Web Design na Universidade dos Açores.
             A minha paixão pela tecnologia e ensino fez-me procurar um caminho onde pudesse unir estes dois mundos, tentando sempre ensinar através de técnicas
